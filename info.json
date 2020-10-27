@@ -1,0 +1,10 @@
+{
+	"name" : "HyChineseCollection" ,
+	"version" : "0.0.1" ,
+	"factorio_version" : "1.0" ,
+	"title" : "Hy Chinese Collection" ,
+	"author" : "指尖红晕" ,
+	"homepage" : "" ,
+	"description" : "红晕汉化合集" ,
+	"dependencies" : [ "base" , "? Any MOD" ]
+}
